@@ -1,0 +1,5 @@
+This is a sample duplicate file
+
+Add more lines
+
+to this file 
